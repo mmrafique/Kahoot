@@ -1,0 +1,63 @@
+{
+    "id": "639007163146011623",
+    "title": "Food & Cuisine Quiz",
+    "description": "Test your knowledge about food and cooking",
+    "timePerQuestion": 20,
+    "questions": [
+        {
+            "questionId": 1,
+            "text": "Which country is famous for originating pizza?",
+            "options": [
+                "France",
+                "Spain",
+                "Italy",
+                "Greece"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "questionId": 2,
+            "text": "What is the main ingredient in guacamole?",
+            "options": [
+                "Tomato",
+                "Avocado",
+                "Pepper",
+                "Onion"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "questionId": 3,
+            "text": "Which spice is known as the 'king of spices'?",
+            "options": [
+                "Cumin",
+                "Balck Pepper",
+                "Turmeric",
+                "Cinnamon"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "questionId": 4,
+            "text": "What is the traditional ingredient in Japanese sushi rice?",
+            "options": [
+                "White Vinegar",
+                "Rice Wine",
+                "Apple Coast",
+                "Lemon Juice"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "questionId": 5,
+            "text": "Which country produces the most chocolate in the world?",
+            "options": [
+                "Belgium",
+                "Switzerland",
+                "Invoy Coast",
+                "Germany"
+            ],
+            "correctIndex": 2
+        }
+    ]
+}
